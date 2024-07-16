@@ -1,4 +1,4 @@
-![](./README.svg)
+
 ### Hi there 👋
 
 Meu nome é Eric, sou programador a mais de 20 anos! Trabalho com C#(web, wpf, wcf, Api), Nodejs, Angular.js, react.js. Expericência em desenvolvimento, no setor financeiro, bancário e jurídico.
